@@ -1,0 +1,19 @@
+header {
+    background-color: rgb(59, 190, 255);
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+  }
+
+  body {
+    background-color: rgb(255, 225, 149);
+  }
+
+  footer {
+    background-color: rgb(99, 99, 99);
+    padding: 30px;
+    text-align: right;
+    font-size: 23px;
+    color: white;
+  }
