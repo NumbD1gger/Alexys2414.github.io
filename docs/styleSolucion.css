@@ -1,0 +1,38 @@
+head {
+    text-align: center;
+  }
+  img {
+    width: 100%;
+    height: auto;
+  }
+#navbar {
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    background-color: #fd9d24;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #navbar a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 8%;
+}
+  
+  #navbar a:hover {
+    background-color: #ddd;
+    color: #000;
+  }
+  #left-block {
+    float: left;
+    width: 50%;
+}
+#right-block {
+    float: right;
+    width: 50%;
+}
+  .block-title {
+    text-align: center;
+  }
