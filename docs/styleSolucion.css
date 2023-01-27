@@ -1,6 +1,9 @@
 head {
     text-align: center;
   }
+  body {
+    background-color: white;
+    }    
   img {
     width: 100%;
     height: auto;
@@ -27,11 +30,15 @@ head {
   }
   #left-block {
     float: left;
-    width: 50%;
+    width: 47%;
+    padding: 20px;
+    text-align: justify;
 }
 #right-block {
     float: right;
-    width: 50%;
+    width: 47%;
+    padding: 20px;
+    text-align: justify;
 }
   .block-title {
     text-align: center;
