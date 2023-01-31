@@ -7,7 +7,7 @@ head {
   img {
     width: 100%;
     height: auto;
-    margin: 0 30px;
+    margin: 0 40px;
   }
 #navbar {
     width: 100%;
@@ -17,7 +17,7 @@ head {
     color: #fff;
     display: flex;
     justify-content: space-between;
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
     font-weight: bold;
 
   }
@@ -35,25 +35,25 @@ head {
   #left-block {
     float: left;
     width: 47%;
-    padding: 20px;
+    padding: 219px;
     text-align: justify;
 }
 #right-block {
     float: right;
     width: 47%;
-    padding: 20px;
+    padding: 19px;
     text-align: justify;
 }
   .block-title {
     text-align: center;
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
     font-weight: bold;
   }
   .solution-title {
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
     font-weight: bold;
     font-size: 17px;
   }
   .solucion {
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
   }
