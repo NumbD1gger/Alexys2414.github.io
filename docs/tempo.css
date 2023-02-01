@@ -1,0 +1,27 @@
+.header{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+.txt_cen{
+    text-align: center;
+}
+.titulo1{
+
+}
+.titulo2{
+
+}
+.titulo3{
+
+}
+.tabla {
+    text-align: center;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
