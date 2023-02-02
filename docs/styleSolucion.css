@@ -5,23 +5,23 @@ head {
     background-color: white;
     }    
   img {
-    width: 100%;
-    height: auto;
-    margin: 0 10px;
+    display: block;
+    margin: 0 auto;
+    width: 80%;
   }
 #navbar {
-    width: 100%;
+  margin: 0 auto;
+    width: 80%;
     height: auto;
     box-sizing: border-box;
     background-color: #fd9d24;
     color: #fff;
     display: flex;
     justify-content: space-between;
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
     font-weight: bold;
 
   }
-  
   #navbar a {
     color: #fff;
     text-decoration: none;
@@ -32,25 +32,30 @@ head {
     background-color: #ddd;
     color: #000;
   }
-  #left-block {
+  #imagen-izquierda {
     float: left;
-    width: 47%;
-    padding: 19px;
-    text-align: justify;
+    width: 45%;
+    padding: 20px;
+  }
+
+#imagen-derecha {
+  float: right;
+  width: 45%;
+  padding: 20px;
 }
-#right-block {
-    float: right;
-    width: 47%;
-    padding: 19px;
-    text-align: justify;
+#imagen-centro {
+  clear: both;
+  text-align: center;
+  width: 45%;
+  padding: 20px;
 }
   .block-title {
     text-align: center;
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
     font-weight: bold;
   }
   .solution-title {
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
     font-weight: bold;
     font-size: 17px;
   }
